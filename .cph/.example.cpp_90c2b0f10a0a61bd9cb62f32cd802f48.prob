@@ -1,0 +1,1 @@
+{"name":"Local: example","url":"d:\\DailyCodingProblem\\example.cpp","tests":[{"id":1659274593838,"input":"4\n1 1\n2 1\n4 6\n3 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\DailyCodingProblem\\example.cpp","group":"local","local":true}
